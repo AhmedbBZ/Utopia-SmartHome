@@ -124,8 +124,8 @@ root
 
 - **GET /houses**: Retrieve all houses.
 - **POST /houses**: Add a new house.
-- **GET /houses/\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*****:id**: Retrieve house details by ID.
-- **PUT /houses/\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*****:id**: Update house details by ID.
+- **GET /houses/:id**: Retrieve house details by ID.
+- **PUT /houses/:id**: Update house details by ID.
 
 ## Default Devices
 
